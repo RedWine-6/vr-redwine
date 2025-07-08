@@ -1,0 +1,57 @@
+#shapka {
+    text-decoration-color: white;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    border-bottom: 4px solid darkred;
+    background: darkred;
+    color: white;
+    line-height: 70px;
+}
+
+body {
+    background-color: black;
+    background-image: url(photo.jpeg);
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 30vh;
+    background-size: 30%;
+    background-attachment: fixed;
+    background-size: contain;
+}
+
+#pravila {
+    color: white;
+    font-size: 100%;
+}
+
+#leaders {
+    color: white;
+}
+
+#svaz {
+    color: white;
+}
+
+.ss {
+    color: white;
+}
+
+#result {
+    color: white;
+}
+
+#video {
+    width: 350px;
+    height: auto;
+    border-color: red;
+    border-radius: 3px;
+}
+
+#photo {
+
+    width: 360px;
+    height: auto;
+    border-color: red;
+    border-radius: 3px;
+}
